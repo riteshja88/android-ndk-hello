@@ -14,11 +14,11 @@ bin/hello: 1 file pushed. 0.7 MB/s (6660 bytes in 0.009s)
 adb shell /data/bin/hello
 Hello World
 
-ritesh@ritesh-lappi:~/android-ndk-hello$make clobber
+ritesh@ritesh-lappi:~/android-ndk-hello$ make clobber
 adb shell rm -rf /data/bin
 rm -rf bin
 
-ritesh@ritesh-lappi:~/android-ndk-hello$adb devices
+ritesh@ritesh-lappi:~/android-ndk-hello$ adb devices
 List of devices attached
 192.168.1.74:5555       device
 ```
