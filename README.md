@@ -1,4 +1,5 @@
 # android-ndk-hello
+It is expected to be adb connected as root
 ```
 ritesh@ritesh-lappi:~/android-ndk-hello$ make clean
 adb shell rm -f /data/bin/hello
