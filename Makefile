@@ -1,6 +1,6 @@
 #https://developer.android.com/ndk/guides/other_build_systems
 #https://developer.android.com/ndk/downloads
-NDK_PATH=~/android-ndk-r21d/
+NDK_PATH=~/android-ndk-r21d
 HOST_TAG=linux-x86_64
 MIN_SDK_VERSION=30
 TARGET_ARCH=armv7a-linux-androideabi$(MIN_SDK_VERSION)
