@@ -21,3 +21,9 @@ ritesh@ritesh-lappi:~/android-ndk-hello$adb devices
 List of devices attached
 192.168.1.74:5555       device
 ```
+
+#Download NDK from here
+https://developer.android.com/ndk/downloads
+
+#How to use NDK with ./configure and make
+https://developer.android.com/ndk/guides/other_build_systems
