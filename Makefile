@@ -6,7 +6,7 @@ MIN_SDK_VERSION=30
 TARGET_ARCH=armv7a-linux-androideabi$(MIN_SDK_VERSION)
 CC=clang
 BIN=bin
-TARGET_BIN_PATH=/data/bin1
+TARGET_BIN_PATH=/data/bin
 all: run_on_target
 
 build:
